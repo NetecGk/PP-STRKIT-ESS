@@ -11,20 +11,20 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **CoE Start
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
 ### [Práctica 1. Nombre de la práctica](./Laboratorio_1.md) 
-    - **Descripción**: xxx.
-    - ⏱️ **Duración estimada**: xx min.
+   - **Descripción**: xxx.
+   - ⏱️ **Duración estimada**: xx min.
 
 ### [Práctica 2. Nombre de la práctica](./Laboratorio_2.md)
-    - **Descripción**: xxx.
-    - ⏱️ **Duración estimada**: xx min.
+   - **Descripción**: xxx.
+   - ⏱️ **Duración estimada**: xx min.
 
 ### [Práctica 3. Nombre de la práctica](./Laboratorio_3.md)
-    - **Descripción**: xxx.
-    - ⏱️**Duración estimada**: xx min.
+   - **Descripción**: xxx.
+   - ⏱️**Duración estimada**: xx min.
 
 ### [Práctica 4. Nombre de la práctica](./Laboratorio_4.md)
-    - **Descripción**: xxx.
-    - ⏱️**Duración estimada**: xx min.
+   - **Descripción**: xxx.
+   - ⏱️**Duración estimada**: xx min.
 
 ---
 
