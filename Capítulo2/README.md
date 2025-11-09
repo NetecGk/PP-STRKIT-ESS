@@ -101,6 +101,5 @@ Paso 5. La conexión se creará y desplegará este mensaje.
 Paso 6. Retoma la Tarea 4 desde el punto en que quedaste.
 
 ### Resultado esperado
-El resultado esperado es donde se indica en la parte superior que el Core se ha importado satisfactoriamente.
 
 ![imagen resultado](../images/Img2.16.jpg)
