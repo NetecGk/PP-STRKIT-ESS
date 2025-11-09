@@ -30,7 +30,7 @@ Paso 3. Navega por flujos de nube para identificar cual activar en algún moment
 
 ![diagrama1](../images/Img3.4.jpg)
 
-### Tarea 2. Configurar y actualizar el CoE
+### Tarea 2. Configurar y actualizar el CoE, siguiendo y sobre todo, entendiendo la importancia de cada paso
 Paso 1. Busca la aplicación según la imagen.
 
 ![diagrama1](../images/Img3.5.jpg)
@@ -47,16 +47,35 @@ Paso 4. Configura los métodos de autenticación dependiendo del rol.
 
 ![diagrama1](../images/Img3.8.jpg)
 
-Así mismo puedes configurar y vincular a grupos existentes.
+Así mismo puedes configurar y vincular a grupos existentes o crear grupos nuevos.
 
 ![diagrama1](../images/Img3.9.jpg)
 
-Paso 5. Configura los métodos de autenticación dependiendo del rol.
+Paso 5. Configura las configuraciones obligatorios, que generalmente ya vienen por defecto.
 
-![diagrama1](../images/Img3.8.jpg)
+![diagrama1](../images/Img3.10.jpg)
 
+Paso 6. Configura la fuente de datos del inventario.
+
+![diagrama1](../images/Img3.11.jpg)
+
+Paso 7. Ejecuta los flujos principales y refresca para ver el avance, ya que este proceso puedo tardar algunos minutos.
+
+![diagrama1](../images/Img3.12.jpg)
+
+Paso 8. Una vez finalizado el paso anterior ejecuta los flujos de inventario para que recopilen toda la información que tenemos dentro de nuestro inquilino, esa recopilación dependera del tipo de licencia que tengas, permitiendo la activación o no, de los flujos seleccionados
+
+![diagrama1](../images/Img3.13.jpg)
+
+Paso 9. Comparte las aplicaciones con tus compañeros del equipo de administración
+
+![diagrama1](../images/Img3.14.jpg)
+
+Paso 10. Conoce los paneles disponibles en Power Bi.
+
+![diagrama1](../images/Img3.15.jpg)
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+![imagen resultado](../images/Img3.16.jpg)
 
