@@ -87,6 +87,7 @@ Paso 3. Busca el conector en el buscador de la parte superior derecha digitando 
 
 Paso 4. Configura la conexión con esta información
 | Campo | Valor a escribir |
+| --- | --- |
 | Authentication type | Iniciar sesión con credenciales deMicrosoft Entra ID |
 | Dirección URL | https://graph.microsoft.com |
 | URL de recurso | https://graph.microsoft.com |
