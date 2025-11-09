@@ -69,5 +69,5 @@ Une cada riesgo con su medida o acción de gobernanza por ejemplo:
 🔴 “Falta de control de flujos” → 🟦 “Políticas de seguridad” → 🟩 “CoE Starter Kit”
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
+
 ![imagen resultado](../images/Img1.2.png)
