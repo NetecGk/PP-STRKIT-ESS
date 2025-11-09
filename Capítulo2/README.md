@@ -13,10 +13,7 @@ Finalizar la instalación iniciando desde el centro de administración:
 - 60 minutos.
 
 ## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+Acceso a tu cuenta Microsoft 365.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
@@ -37,7 +34,7 @@ Paso 2. Selecciona Nuevo y sigue las indicaciones resaltadas en rojo de las imag
 
 ![diagrama1](../images/Img2.3.jpg)
 
-Paso 3. Una vez creado en entorno se realizan las siguientes configuraciones:
+Paso 3. Una vez creado el entorno se realizan las siguientes configuraciones asegurando que queden guardadas:
 
 ![diagrama1](../images/Img2.4.jpg)
 
@@ -47,6 +44,60 @@ Paso 3. Una vez creado en entorno se realizan las siguientes configuraciones:
 
 ![diagrama1](../images/Img2.7.jpg)
 
+### Tarea 3. Instalar Kit de Creación
+Paso 1. Ingresa a https://make.powerapps.com/
+
+Paso 2. Selecciona el entorno creado en la tarea anterior
+
+![diagrama1](../images/Img2.8.jpg)
+
+Paso 3. Importa el Creator Kit siguiendo estos pasos:
+
+![diagrama1](../images/Img2.9.jpg)
+
+![diagrama1](../images/Img2.10.jpg)
+
+![diagrama1](../images/Img2.11.jpg)
+
+### Tarea 4. Instalar CoreComponents de Starter Kit 
+Paso 1. Continua en el entorno ya creado e importa el archivo CenterofExcellenceCoreComponents_4.50.6_managed siguiendo estos pasos:
+
+![diagrama1](../images/Img2.9.jpg)
+
+![diagrama1](../images/Img2.12.jpg)
+
+![diagrama1](../images/Img2.13.jpg)
+
+Paso 2. Al momento de verificar las 21 conexiones, si tenemos todos los prerequisitos de licencia, debe aparecer el check en verde. Sin embargo en algunas ocasiones la conexion CoE Core - HTTP With Azure AD debe ser configurada, si es así pasa a la tarea 5 Opcional.
+
+![diagrama1](../images/Img2.14.jpg)
+
+Paso 3. Una vez validadas las conexiones se listan las variables de entorno las cuales se iran configurando más adelante de acuerdo a los objetivos del CoE.
+
+![diagrama1](../images/Img2.15.jpg)
+
+Paso 4. Al finalizar el flujo de importación se debe esperar un tiempo considerable dependiendo el tipo de licencia que uses para que la importación se realice.
+
+### Tarea 5 Opcional. Crear la Conexión HTTP with Microsoft Entra ID (preautorizado)
+Paso 1. Ingresa a https://make.powerautomate.com
+
+Paso 2. Ve a conexiones y selecciona + Nueva conexión
+
+Paso 3. Busca el conector en el buscador de la parte superior derecha digitando HTTP y selecciona HTTP with Microsoft Entra ID (preautorizado)
+
+Paso 4. Configura la conexión con esta información
+| Campo | Valor a escribir |
+| Authentication type | Iniciar sesión con credenciales deMicrosoft Entra ID |
+| Dirección URL | https://graph.microsoft.com |
+| URL de recurso | https://graph.microsoft.com |
+
+Paso 5. La conexión se creará y desplegará este mensaje.
+
+![diagrama1](../images/Img2.17.jpg)
+
+Paso 6. Retoma la Tarea 4 desde el punto en que quedaste.
+
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+El resultado esperado es donde se indica en la parte superior que el Core se ha importado satisfactoriamente
+
+![imagen resultado](../images/Img2.16.jpg)
