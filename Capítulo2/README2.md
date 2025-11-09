@@ -13,26 +13,48 @@ Completar la instalación y validación básica del CoE Starter Kit, dejando con
 - 60 minutos.
 
 ## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+Acceso a tu cuenta Microsoft 365.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+### Tarea 1. Ingresar al Center of Excellence - Core Components para verificar las aplicaciones, flujos y demás recursos instalados
+Paso 1. Ingresa al Center of Excellence - Core Components.
 
-Paso 2. <!-- Añadir instrucción -->
+![diagrama1](../images/Img3.2.jpg)
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 2. Navega por los diferentes recursos, como aplicaciones o dashboards, para conocer las diferencias capacidades que ofrece el CoE.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+![diagrama1](../images/Img3.3.jpg)
 
-Paso 2. <!-- Añadir instrucción -->
+Paso 3. Navega por flujos de nube para identificar cual activar en algún momento determinado.
 
-Paso 3. <!-- Añadir instrucción -->
+![diagrama1](../images/Img3.4.jpg)
+
+### Tarea 2. Configurar y actualizar el CoE
+Paso 1. Busca la aplicación según la imagen.
+
+![diagrama1](../images/Img3.5.jpg)
+
+Paso 2. Revisa y confirma las conexiones.
+
+![diagrama1](../images/Img3.6.jpg)
+
+Paso 3. Luego confirma los prerequisitos dependiendo el nivel de autorización que desees.
+
+![diagrama1](../images/Img3.7.jpg)
+
+Paso 4. Configura los métodos de autenticación dependiendo del rol.
+
+![diagrama1](../images/Img3.8.jpg)
+
+Así mismo puedes configurar y vincular a grupos existentes.
+
+![diagrama1](../images/Img3.9.jpg)
+
+Paso 5. Configura los métodos de autenticación dependiendo del rol.
+
+![diagrama1](../images/Img3.8.jpg)
+
 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
