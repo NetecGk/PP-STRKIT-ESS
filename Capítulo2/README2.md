@@ -1,18 +1,16 @@
-# Configurar y validar que los flujos funcionan.
+# Configurar y validar que los flujos funcionan
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+- Configurar correctamente los componentes del CoE Starter Kit en Power Platform y validar que la instalación esté completa, funcional y alineada con las dependencias requeridas (entornos, conexiones, flujos y aplicaciones).
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Completar la instalación y validación básica del CoE Starter Kit, dejando configurada una base funcional sobre la cual el usuario podrá ampliar, personalizar y optimizar las funcionalidades según las necesidades de su organización, como se muestra en la imagen:
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/Img3.1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
+- 60 minutos.
 
 ## Tabla de ayuda:
 Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
