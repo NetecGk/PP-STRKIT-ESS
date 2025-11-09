@@ -29,11 +29,23 @@ Paso 3. Descarga el Creator Kit Core de:
 https://github.com/microsoft/powercat-creator-kit/releases/download/CreatorKit-March2025/CreatorKitCore_1_0_20250310_1_managed.zip
 
 ### Tarea 2. Crear entorno independiente en el Centro de administración de Power Platform
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Paso 1. Ingresa a https://admin.powerplatform.microsoft.com/manage/environments
 
-Paso 2. <!-- Añadir instrucción -->
+Paso 2. Selecciona Nuevo y sigue las indicaciones resaltadas en rojo de las imagenes:
 
-Paso 3. <!-- Añadir instrucción -->
+![diagrama1](../images/Img2.2.jpg)
+
+![diagrama1](../images/Img2.3.jpg)
+
+Paso 3. Una vez creado en entorno se realizan las siguientes configuraciones:
+
+![diagrama1](../images/Img2.4.jpg)
+
+![diagrama1](../images/Img2.5.jpg)
+
+![diagrama1](../images/Img2.6.jpg)
+
+![diagrama1](../images/Img2.7.jpg)
 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
