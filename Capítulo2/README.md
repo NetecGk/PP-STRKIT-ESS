@@ -83,16 +83,16 @@ Paso 1. Ingresa a https://make.powerautomate.com
 
 Paso 2. Ve a conexiones y selecciona + Nueva conexión
 
-Paso 3. Busca el conector en el buscador de la parte superior derecha digitando HTTP y selecciona HTTP with Microsoft Entra ID (preautorizado)
+Paso 3. Busca el conector en el buscador de la parte superior derecha digitando HTTP y selecciona HTTP with Microsoft Entra ID (preautorizado).
 
-Paso 4. Configura la conexión con esta información
+Paso 4. Configura la conexión con esta información.
 | Campo | Valor a escribir |
 | --- | --- |
 | Authentication type | Iniciar sesión con credenciales de Microsoft Entra ID |
 | Dirección URL | https://graph.microsoft.com |
 | URL de recurso | https://graph.microsoft.com |
 
-Se abrirá una ventana emergente de inicio de sesión y luego de autenticarse se cerrará automáticamente
+Se abrirá una ventana emergente de inicio de sesión y luego de autenticarse se cerrará automáticamente.
 
 Paso 5. La conexión se creará y desplegará este mensaje.
 
@@ -101,6 +101,6 @@ Paso 5. La conexión se creará y desplegará este mensaje.
 Paso 6. Retoma la Tarea 4 desde el punto en que quedaste.
 
 ### Resultado esperado
-El resultado esperado es donde se indica en la parte superior que el Core se ha importado satisfactoriamente
+El resultado esperado es donde se indica en la parte superior que el Core se ha importado satisfactoriamente.
 
 ![imagen resultado](../images/Img2.16.jpg)
