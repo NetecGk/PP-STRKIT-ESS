@@ -92,6 +92,8 @@ Paso 4. Configura la conexión con esta información
 | Dirección URL | https://graph.microsoft.com |
 | URL de recurso | https://graph.microsoft.com |
 
+Se abrirá una ventana emergente de inicio de sesión y luego de autenticarse se cerrará automáticamente
+
 Paso 5. La conexión se creará y desplegará este mensaje.
 
 ![diagrama1](../images/Img2.17.jpg)
