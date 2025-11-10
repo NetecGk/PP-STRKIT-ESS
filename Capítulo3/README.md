@@ -12,13 +12,11 @@ Acceder al CoE Starter Kit Dashboard
 ![diagrama1](../images/Img4.1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
+- 60 minutos.
 
 ## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+Acceso a tu cuenta Microsoft 365.
+Acceso a Power BI Desktop.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
