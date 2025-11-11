@@ -13,8 +13,8 @@ Acceder al CoE Starter Kit Dashboard
 - 60 minutos.
 
 ## Tabla de ayuda:
-Acceso a tu cuenta Microsoft 365.
-Acceso a Power BI Desktop.
+- Acceso a tu cuenta Microsoft 365.
+- Acceso a Power BI Desktop.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
