@@ -10,21 +10,21 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **CoE Start
 
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
-### [Práctica 1. Nombre de la práctica](./Laboratorio_1.md) 
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
+### [Práctica 1. Identificar casos de uso de gobernanza en Power Platform](./Laboratorio_1.md) 
+   - **Descripción**: Identificar y representar casos de uso de gobernanza en Power Platform, mostrando por qué sería necesario implementar un CoE.
+   - ⏱️ **Duración estimada**: 60 min.
 
-### [Práctica 2. Nombre de la práctica](./Laboratorio_2.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
+### [Práctica 2. Implementar el despliegue en un entorno demo](./Laboratorio_2/README.md)
+   - **Descripción**: Implementar el despliegue e instalación del CoE Starter Kit en un entorno de demostración de Power Platform, con el fin de conocer su estructura, componentes y propósito dentro de la gobernanza.
+   - ⏱️ **Duración estimada**: 60 min.
 
 ### [Práctica 3. Nombre de la práctica](./Laboratorio_3.md)
    - **Descripción**: xxx.
-   - ⏱️**Duración estimada**: xx min.
+   - ⏱️**Duración estimada**: 60 min.
 
 ### [Práctica 4. Nombre de la práctica](./Laboratorio_4.md)
    - **Descripción**: xxx.
-   - ⏱️**Duración estimada**: xx min.
+   - ⏱️**Duración estimada**: 60 min.
 
 ---
 
