@@ -76,7 +76,7 @@ Paso 1. Descarga el archivo con datos simulados llamado DemoMicrosoft.pbix del s
 Paso 2. Abre el archivo DemoMicrosoft.pbix que es el insumo para la siguiente tarea.
 
 ### Tarea 4. Analizar un dashboard de gobernanza, detectar riesgos y proponer acciones.
-- Conexto: Tu organización ha implementado el Centro de Excelencia (CoE) para Power Platform y ha configurado un dashboard de gobernanza en Power BI. El objetivo del equipo es monitorear el uso de las aplicaciones, los entornos y los creadores (makers), identificando posibles riesgos que puedan afectar la seguridad, la capacidad o el cumplimiento de políticas.
+Conexto: Tu organización ha implementado el Centro de Excelencia (CoE) para Power Platform y ha configurado un dashboard de gobernanza en Power BI. El objetivo del equipo es monitorear el uso de las aplicaciones, los entornos y los creadores (makers), identificando posibles riesgos que puedan afectar la seguridad, la capacidad o el cumplimiento de políticas.
 
 Paso 1. Usa el insumo generado en la tarea 2 o el alternativo de la tarea 3.
 
