@@ -70,25 +70,15 @@ Paso 3. Validar datos
 - Si los flujos del CoE ya generaron datos en Dataverse, Power BI los traerá y mostrará las tablas (Apps, Environments, Makers, etc.).
 - Si no hay datos (porque los flujos aún no se ejecutan), Power BI mostrará tablas vacías, en ese caso pasaremos a la Tarea 3 Opcional.
 
-### Tarea 3 Opcional. Importar desde Power BI desde CSV en modo demo
+### Tarea 3 Opcional. Consultar un Power BI Demo.
 
-Paso 1. Obtener el Environment URL
-- Entra a https://admin.powerplatform.microsoft.com/
-- Selecciona la opción de "Administrar" en el menu de la izquierda
-- En el centro, selecciona el entorno que quieres usar.
-- Da click en la URL de entorno
-- Se abre otra ventana en donde debes copiar el link (Usa todo hasta el .com sin /main.aspx), algo como: https://orgXXXX.crm.dynamics.com/
+Paso 1. Descarga el archivo con datos simulados llamado DemoMicrosoft.pbix del siguiente link:
+- https://1drv.ms/f/c/ae8d4f629773f03e/ElDMZl06ujRCt-fMWK-7rcABDPUV2Yjof5i3a_TqfZzhjg?e=aY3si6
 
-Paso 2. Abrir Power BI Desktop
-- Abre el archivo Production_CoEDashboard_MMMYY.pbit que esta en la carpeta CoEStarterKit
-- Ingresa el link del paso 1 y deja el Tenant en Commercial o el tipo de licencia que tengas.
-- Espera la carga de datos
+Paso 2. Abre el archivo DemoMicrosoft.pbix que es el insumo para la siguiente tarea.
 
+### Tarea 4. Consultar un Power BI Demo.
 
-Paso 3. Validar datos
-- Si los flujos del CoE ya generaron datos en Dataverse, Power BI los traerá y mostrará las tablas (Apps, Environments, Makers, etc.).
-- Si no hay datos (porque los flujos aún no se ejecutan), Power BI mostrará tablas vacías, en ese caso pasaremos a la Tarea 3 Opcional.
-- 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
 ![imagen resultado](../images/img3.png)
