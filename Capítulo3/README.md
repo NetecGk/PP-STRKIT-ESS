@@ -59,9 +59,12 @@ Paso 1. Obtener el Environment URL
 Paso 2. Abrir Power BI Desktop
 - Abre el archivo Production_CoEDashboard_MMMYY.pbit que esta en la carpeta CoEStarterKit
 - Ingresa el link del paso 1 y deja el Tenant en Commercial o el tipo de licencia que tengas.
+  
 ![diagrama1](../images/Img4.2.jpg)
+
 - Espera la carga de datos
-![diagrama1](../images/Img4.3.jpg)
+
+  ![diagrama1](../images/Img4.3.jpg)
 
 Paso 3. Validar datos
 - Si los flujos del CoE ya generaron datos en Dataverse, Power BI los traerá y mostrará las tablas (Apps, Environments, Makers, etc.).
@@ -79,9 +82,8 @@ Paso 1. Obtener el Environment URL
 Paso 2. Abrir Power BI Desktop
 - Abre el archivo Production_CoEDashboard_MMMYY.pbit que esta en la carpeta CoEStarterKit
 - Ingresa el link del paso 1 y deja el Tenant en Commercial o el tipo de licencia que tengas.
-![diagrama1](../images/Img4.2.jpg)
 - Espera la carga de datos
-![diagrama1](../images/Img4.3.jpg)
+
 
 Paso 3. Validar datos
 - Si los flujos del CoE ya generaron datos en Dataverse, Power BI los traerá y mostrará las tablas (Apps, Environments, Makers, etc.).
