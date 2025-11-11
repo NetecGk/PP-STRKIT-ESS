@@ -2,9 +2,7 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+- Analizar la información presentada en un dashboard de gobernanza de Power Platform para identificar riesgos asociados al uso de aplicaciones y entornos, y proponer acciones de mejora que fortalezcan la administración y el cumplimiento de las políticas de la organización.
 
 ## Objetivo Visual 
 Acceder al CoE Starter Kit Dashboard
@@ -68,16 +66,20 @@ Paso 2. Abrir Power BI Desktop
 
 Paso 3. Validar datos
 - Si los flujos del CoE ya generaron datos en Dataverse, Power BI los traerá y mostrará las tablas (Apps, Environments, Makers, etc.).
-- Si no hay datos (porque los flujos aún no se ejecutan), Power BI mostrará tablas vacías, en ese caso pasaremos a la Tarea 3 Opcional.
+- Si no hay datos (porque los flujos aún no se ejecutan), Power BI mostrará tablas vacías, en ese caso pasaremos a la Tarea 3 Alternativa.
 
-### Tarea 3 Opcional. Consultar un Power BI Demo.
+### Tarea 3 Alternativa. Consultar un Power BI Demo.
 
 Paso 1. Descarga el archivo con datos simulados llamado DemoMicrosoft.pbix del siguiente link:
 - https://1drv.ms/f/c/ae8d4f629773f03e/ElDMZl06ujRCt-fMWK-7rcABDPUV2Yjof5i3a_TqfZzhjg?e=aY3si6
 
 Paso 2. Abre el archivo DemoMicrosoft.pbix que es el insumo para la siguiente tarea.
 
-### Tarea 4. Consultar un Power BI Demo.
+### Tarea 4. Analizar un dashboard de gobernanza, detectar riesgos y proponer acciones.
+- Conexto: Tu organización ha implementado el Centro de Excelencia (CoE) para Power Platform y ha configurado un dashboard de gobernanza en Power BI. El objetivo del equipo es monitorear el uso de las aplicaciones, los entornos y los creadores (makers), identificando posibles riesgos que puedan afectar la seguridad, la capacidad o el cumplimiento de políticas.
+
+Paso 1. Usa el insumo generado en la tarea 2 o el alternativo de la tarea 3.
+
 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
