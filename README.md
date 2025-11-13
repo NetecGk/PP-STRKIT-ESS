@@ -27,7 +27,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
    - ⏱️**Duración estimada**: 60 min.
 
 ### [Práctica 4. Crear un flujo de trabajo para registrar y priorizar ideas en el backlog.](Capítulo4/README.md)
-   - **Descripción**: Diseñar un flujo de trabajo en Power Automate para registrar y priorizar ideas en un backlog de innovación.
+   - **Descripción**: Implementar y explorar el módulo Innovation Backlog del Center of Excellence (CoE) Starter Kit para registrar, priorizar y administrar ideas de innovación mediante una aplicación en Power Apps y un flujo de trabajo interno en Dataverse que permite gestionar el estado y seguimiento de cada propuesta.
    - ⏱️**Duración estimada**: 60 min.
 
 ---
