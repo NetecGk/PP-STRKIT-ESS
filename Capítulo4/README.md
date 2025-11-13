@@ -42,7 +42,7 @@ Paso 2. Revisa los campos principales que contiene, como:
 - timesavingspotential (Ahorro de tiempo potencial)
 - numberworkitems (Número de tareas o entregables relacionados)
 
-### Tarea 2. Usar y personalizar el App
+### Tarea 3. Usar y personalizar el App
 Paso 1. En Power Apps → Aplicaciones, abre Innovation Backlog.
 
 Paso 2. Ejecuta la aplicación y crea tres ideas nuevas, completando los campos.
@@ -64,7 +64,7 @@ Paso 5. Abre tu copia y realiza estas personalizaciones sencillas:
 - Guarda y publica la aplicación.
 - Crea una nueva idea desde tu versión personalizada y verifica su correcto guardado en Dataverse.
 
-### Tarea 3. Crear vista de revisión
+### Tarea 4. Crear vista de revisión
 Paso 1. Ve a Tablas → Innovation Backlog Idea, abre la pestaña Vistas.
 
 ![diagrama1](../images/5.7.jpg)
@@ -93,7 +93,7 @@ Paso 5. Agrega columnas clave para mostrar:
 
 ![diagrama1](../images/5.10.jpg)
 
-### Tarea 4. Publicar en Power BI
+### Tarea 5. Publicar en Power BI
 Paso 1. Abre Power BI Desktop y en la pantalla inicial, selecciona Obtener datos → Dataverse.
 
 Paso 2. Conéctate usando la misma cuenta de tu entorno del CoE.
