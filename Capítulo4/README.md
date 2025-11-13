@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img5.1.jpg)
+![diagrama1](../images/img5.1.png)
 
 ## Duración aproximada:
 - 60 minutos.
