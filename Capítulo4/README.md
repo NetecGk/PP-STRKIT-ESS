@@ -51,7 +51,7 @@ Paso 2. Ejecuta la aplicación y crea tres ideas nuevas, completando los campos.
 
 Paso 3. Comprueba que se guardan correctamente en Dataverse.
 
-Paso 4. Regresa a la aplicación ve a Archivo → Guardar como y crea una copia llamada “Registro de Ideas – Tu nombre”
+Paso 4. Regresa a la aplicación, ve a Archivo → Guardar como y crea una copia llamada “Registro de Ideas – Tu nombre”
 
 ![diagrama1](../images/5.5.jpg)
 
@@ -100,11 +100,11 @@ Paso 2. Conéctate usando la misma cuenta de tu entorno del CoE.
 
 Paso 3. Busca la tabla Innovation Backlog Idea y haz clic en Cargar.
 
-Paso 4. Inserta un gráfico de barras agrupadas yc onfigura los ejes:
+Paso 4. Inserta un gráfico de barras agrupadas y configura los ejes:
 - Eje X: moneysavingspotential (Ahorro monetario potencial)
 - Eje Y: name (Nombre de la idea)
 - Opcional: Cambia el eje X por timesavingspotential para analizar el ahorro de tiempo.
-- Este gráfico permite ver rápidamente qué ideas tienen mayor impacto económico o en tiempo.
+- Este gráfico permite ver rápidamente que ideas tienen mayor impacto económico o en tiempo.
 
 ![diagrama1](../images/5.11.jpg)
 
