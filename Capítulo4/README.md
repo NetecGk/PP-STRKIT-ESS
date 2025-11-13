@@ -5,8 +5,6 @@ Al finalizar la práctica, serás capaz de:
 - Implementar y explorar el módulo Innovation Backlog del Center of Excellence (CoE) Starter Kit para registrar, priorizar y administrar ideas de innovación mediante una aplicación en Power Apps y un flujo de trabajo interno en Dataverse que permite gestionar el estado y seguimiento de cada propuesta.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
-
 ![diagrama1](../images/5.1.png)
 
 ## Duración aproximada:
