@@ -1,5 +1,3 @@
-<img width="2365" height="220" alt="image" src="https://github.com/user-attachments/assets/da13fd51-a44f-498f-86aa-ae2a4040d4da" /><img src="images/neteclogo.png" alt="logo" width="300"/>
-
 # CoE Starter Kit – Power Platform
 
 ## Plataforma de laboratorios
