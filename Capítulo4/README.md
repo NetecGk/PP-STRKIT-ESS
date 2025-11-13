@@ -2,7 +2,7 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Diseñar un flujo de trabajo en Power Automate para registrar y priorizar ideas en un backlog de innovación.
+- Implementar y explorar el módulo Innovation Backlog del Center of Excellence (CoE) Starter Kit para registrar, priorizar y administrar ideas de innovación mediante una aplicación en Power Apps y un flujo de trabajo interno en Dataverse que permite gestionar el estado y seguimiento de cada propuesta.
 
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
