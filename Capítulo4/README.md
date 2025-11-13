@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img5.1.png)
+![diagrama1](../images/5.1.png)
 
 ## Duración aproximada:
 - 60 minutos.
@@ -23,7 +23,7 @@ Paso 1. Ingresa a https://make.powerapps.com y selecciona el entorno CoE
 
 Paso 2. Selecciona Soluciones → Importar solución y carga el archivo CenterofExcellenceInnovationBacklog
 
-![diagrama1](../images/img5.2.jpg)
+![diagrama1](../images/5.2.jpg)
 
 Paso 3. Espera el proceso de validación y haz clic en Importar. Este proceso puede tardar varios minutos según el entorno. No cierres la página durante la importación.
 
@@ -34,7 +34,7 @@ Paso 5. Comprueba que la aplicación Innovation Backlog (edición) aparezca en l
 ### Tarea 2. Revisar la tabla Innovation Backlog Idea
 Paso 1. En el panel izquierdo, selecciona Tablas, luego Todos, busca por "innova" y abre la tabla Innovation Backlog Idea. 
 
-![diagrama1](../images/img5.3.jpg)
+![diagrama1](../images/5.3.jpg)
 
 Paso 2. Revisa los campos principales que contiene, como:
 - name (Nombre o título de la idea)
@@ -49,19 +49,19 @@ Paso 1. En Power Apps → Aplicaciones, abre Innovation Backlog.
 
 Paso 2. Ejecuta la aplicación y crea tres ideas nuevas, completando los campos.
 
-![diagrama1](../images/img5.4.jpg)
+![diagrama1](../images/5.4.jpg)
 
 Paso 3. Comprueba que se guardan correctamente en Dataverse.
 
 Paso 4. Regresa a la aplicación ve a Archivo → Guardar como y crea una copia llamada “Registro de Ideas – Tu nombre”
 
-![diagrama1](../images/img5.5.jpg)
+![diagrama1](../images/5.5.jpg)
 
 Paso 5. Abre tu copia y realiza estas personalizaciones sencillas:
 - Cambia el título por “Registro de Ideas de Innovación”.
 - Ajusta tema o colores en Archivo → Configuración → Tema.
 
-![diagrama1](../images/img5.6.jpg)
+![diagrama1](../images/5.6.jpg)
 
 - Guarda y publica la aplicación.
 - Crea una nueva idea desde tu versión personalizada y verifica su correcto guardado en Dataverse.
@@ -69,7 +69,7 @@ Paso 5. Abre tu copia y realiza estas personalizaciones sencillas:
 ### Tarea 3. Crear vista de revisión
 Paso 1. Ve a Tablas → Innovation Backlog Idea, abre la pestaña Vistas.
 
-![diagrama1](../images/img5.7.jpg)
+![diagrama1](../images/5.7.jpg)
 
 Paso 2. Selecciona + Agregar vista.
 
@@ -77,7 +77,7 @@ Paso 3. Nombra la vista Ideas pendientes.
 
 Paso 4. Define el filtro ideastatus = “Idea Submitted”
 
-![diagrama1](../images/img5.8.jpg)
+![diagrama1](../images/5.8.jpg)
 
 Paso 5. Agrega columnas clave para mostrar:
 - name (Nombre de la idea)
@@ -87,13 +87,13 @@ Paso 5. Agrega columnas clave para mostrar:
 - ideastatus (Estado)
 - createdon (Fecha de creación)
 
-![diagrama1](../images/img5.9.jpg)
+![diagrama1](../images/5.9.jpg)
 
 - Guarda y publica la vista.
 
 - En la pestaña Datos, selecciona la vista Ideas pendientes
 
-![diagrama1](../images/img5.10.jpg)
+![diagrama1](../images/5.10.jpg)
 
 ### Tarea 4. Publicar en Power BI
 Paso 1. Abre Power BI Desktop y en la pantalla inicial, selecciona Obtener datos → Dataverse.
@@ -108,7 +108,7 @@ Paso 4. Inserta un gráfico de barras agrupadas yc onfigura los ejes:
 - Opcional: Cambia el eje X por timesavingspotential para analizar el ahorro de tiempo.
 - Este gráfico permite ver rápidamente qué ideas tienen mayor impacto económico o en tiempo.
 
-![diagrama1](../images/img5.11.jpg)
+![diagrama1](../images/5.11.jpg)
 
 ### Resultado esperado
-![imagen resultado](../images/img5.12.jpg)
+![imagen resultado](../images/5.12.jpg)
