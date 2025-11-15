@@ -1,4 +1,4 @@
-# Nombre del laboratorio 
+# Identificar casos de uso de gobernanza en Power Platform
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
