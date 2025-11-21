@@ -1,11 +1,11 @@
-# Analizar un dashboard de gobernanza, detectar riesgos y proponer acciones
+# Práctica 3. Analizar un dashboard de gobernanza, detectar riesgos y proponer acciones
 
-## Objetivo de la práctica:
+## Objetivo 
 Al finalizar la práctica, serás capaz de:
 - Analizar la información presentada en un dashboard de gobernanza de Power Platform para identificar riesgos asociados al uso de aplicaciones y entornos, y proponer acciones de mejora que fortalezcan la administración y el cumplimiento de las políticas de la organización.
 
-## Objetivo Visual 
-Acceder al CoE Starter Kit Dashboard
+## Objetivo visual 
+Acceder al CoE Starter Kit Dashboard:
 
 ![diagrama1](../images/Img4.1.jpg)
 
@@ -17,12 +17,11 @@ Acceder al CoE Starter Kit Dashboard
 - Acceso a Power BI Desktop.
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
 ### Tarea 1. Intentar activar los flujos del CoE Core
-Paso 1. Abre el entorno correcto
+Paso 1. Abre el entorno correcto.
 - Entra a make.powerapps.com
-- Arriba a la derecha selecciona el entorno donde instalaste el Core Components.
+- Arriba a la derecha, selecciona el entorno donde instalaste el Core Components.
 
 Paso 2. Ve a la solución del CoE Core
 - Navega a Soluciones → Center of Excellence – Core Components.
