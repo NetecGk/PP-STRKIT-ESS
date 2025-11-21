@@ -20,7 +20,7 @@ Acceder al CoE Starter Kit Dashboard:
 
 ### Tarea 1. Intentar activar los flujos del CoE Core
 **Paso 1.** Abre el entorno correcto.
-- Entra a make.powerapps.com
+- Entra a [make.powerapps.com](make.powerapps.com)
 - Arriba a la derecha, selecciona el entorno donde instalaste el Core Components.
 
 **Paso 2.** Ve a la solución del CoE Core
@@ -49,11 +49,11 @@ Pero cuando una organización implementa el CoE Starter Kit en su propio entorno
 La lógica detrás de esos flujos recopila datos de Power Platform y los guarda en Dataverse, para luego verse en Power BI. 
 
 **Paso 1.** Obtén el Environment URL.
-- Entra a https://admin.powerplatform.microsoft.com/
-- Selecciona la opción de "Administrar" en el menú de la izquierda.
+- Entra a [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/)
+- Selecciona la opción de `Administrar` en el menú de la izquierda.
 - En el centro, selecciona el entorno que quieres usar.
 - Da clic en la URL de entorno.
-- Se abre otra ventana en donde debes copiar el link (usa todo hasta el `.com` sin `/main.aspx`), algo como: https://orgXXXX.crm.dynamics.com/
+- Se abre otra ventana en donde debes copiar el link (usa todo hasta el `.com` sin `/main.aspx`), algo como: [https://orgXXXX.crm.dynamics.com/](https://orgXXXX.crm.dynamics.com/)
 
 **Paso 2.** Abre Power BI Desktop.
 - Abre el archivo `Production_CoEDashboard_MMMYY.pbit` que está en la carpeta CoEStarterKit.
@@ -71,8 +71,8 @@ La lógica detrás de esos flujos recopila datos de Power Platform y los guarda 
 
 ### Tarea 3. Alternativa: consultar un Power BI Demo.
 
-**Paso 1.** Descarga el archivo con datos simulados llamado `DemoMicrosoft.pbix` del siguiente link:
-- https://1drv.ms/f/c/ae8d4f629773f03e/ElDMZl06ujRCt-fMWK-7rcABDPUV2Yjof5i3a_TqfZzhjg?e=aY3si6
+**Paso 1.** Descarga el archivo con datos simulados llamado [`DemoMicrosoft.pbix`](https://1drv.ms/f/c/ae8d4f629773f03e/ElDMZl06ujRCt-fMWK-7rcABDPUV2Yjof5i3a_TqfZzhjg?e=aY3si6)
+
 
 **Paso 2.** Abre el archivo `DemoMicrosoft.pbix` que es el insumo para la siguiente tarea.
 
@@ -87,8 +87,8 @@ Conextot Tu organización ha implementado el centro de excelencia (CoE) para Pow
 - Makers
 - Environments
 
-**Paso 3.** Descarga el archivo de registro `AnálisisCoEMicrosoft.xlsx` del siguiente link para realizar el registro de la información:
-- https://1drv.ms/f/c/ae8d4f629773f03e/ElDMZl06ujRCt-fMWK-7rcABDPUV2Yjof5i3a_TqfZzhjg?e=aY3si6
+**Paso 3.** Descarga el archivo de registro `AnálisisCoEMicrosoft.xlsx` [aquí](https://1drv.ms/f/c/ae8d4f629773f03e/ElDMZl06ujRCt-fMWK-7rcABDPUV2Yjof5i3a_TqfZzhjg?e=aY3si6) para realizar el registro de la información.
+
 
 **Paso 4.** Identifica tres riesgos potenciales observados en los datos y regístralos en el Excel en la hoja "Riesgos y acciones". Por ejemplo:
 - Apps sin propietario activo.
