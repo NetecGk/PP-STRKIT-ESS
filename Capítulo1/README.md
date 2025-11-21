@@ -12,7 +12,7 @@ Al finalizar la práctica, serás capaz de:
 - 60 minutos.
 
 ## Tabla de ayuda
-Durante el laboratorio, puedes trabajar con cualquier herramienta que te permita generar el gráfico. Sin embargo, se sugiere la siguiente: https://app.diagrams.net
+Durante el laboratorio, puedes trabajar con cualquier herramienta que te permita generar el gráfico. Sin embargo, se sugiere la siguiente: [https://app.diagrams.net](https://app.diagrams.net)
 
 - Al ingresar elige `Decide later` cuando te pregunte por almacenamiento (así no necesitas registro).
 - En el lienzo en blanco usa rectángulos o cuadros de texto para los elementos principales.
