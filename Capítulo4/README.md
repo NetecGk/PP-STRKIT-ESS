@@ -17,7 +17,7 @@ Al finalizar la práctica, serás capaz de:
 ## Instrucciones 
 
 ### Tarea 1. Importación de la solución
-**Paso 1.** Ingresa a https://make.powerapps.com y selecciona el entorno CoE.
+**Paso 1.** Ingresa a [https://make.powerapps.com](https://make.powerapps.com) y selecciona el entorno CoE.
 
 **Paso 2.** Selecciona `Soluciones → Importar solución y carga el archivo CenterofExcellenceInnovationBacklog`.
 
