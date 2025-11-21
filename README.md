@@ -12,11 +12,11 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
    - **Descripción**: identificar y representar casos de uso de gobernanza en Power Platform, mostrando por qué sería necesario implementar un CoE.
    - ⏱️ **Duración estimada**: 60 min.
 
-### [Práctica 2 - Parte 1. Implementar el despliegue en un entorno demo](Capítulo2/README.md)
+### [Práctica 2.1. Implementar el despliegue en un entorno demo](Capítulo2/README.md)
    - **Descripción**: implementar el despliegue e instalación del CoE Starter Kit en un entorno de demostración de Power Platform, con el fin de conocer su estructura, componentes y propósito dentro de la gobernanza.
    - ⏱️ **Duración estimada**: 60 min.
 
-### [Práctica 2 - Parte 2. Configurar y validar que los flujos funcionan](Capítulo2/README2.md)
+### [Práctica 2.2. Configurar y validar que los flujos funcionan](Capítulo2/README2.md)
    - **Descripción**: configurar correctamente los componentes del CoE Starter Kit en Power Platform y validar que la instalación esté completa, funcional y alineada con las dependencias requeridas (entornos, conexiones, flujos y aplicaciones).
    - ⏱️ **Duración estimada**: 60 min.
 
