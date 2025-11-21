@@ -19,7 +19,7 @@ Acceso a tu cuenta Microsoft 365.
 
 
 ### Tarea 1. Descargar y preparar archivos de instalación.
-**Paso 1.** Descarga el Starter Kit del Centro de excelencia de https://aka.ms/coestarterkitdownload
+**Paso 1.** Descarga el [Starter Kit del Centro de excelencia](https://aka.ms/coestarterkitdownload).
 
 **Paso 2.** Descomprime el archivo zip.
 
