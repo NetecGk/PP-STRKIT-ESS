@@ -23,11 +23,10 @@ Acceso a tu cuenta Microsoft 365.
 
 **Paso 2.** Descomprime el archivo zip.
 
-**Paso 3.** Descarga el Creator Kit Core de:
-https://github.com/microsoft/powercat-creator-kit/releases/download/CreatorKit-March2025/CreatorKitCore_1_0_20250310_1_managed.zip
+**Paso 3.** Descarga el [Creator Kit Core](https://github.com/microsoft/powercat-creator-kit/releases/download/CreatorKit-March2025/CreatorKitCore_1_0_20250310_1_managed.zip)
 
 ### Tarea 2. Crear entorno independiente en el centro de administración de Power Platform
-**Paso 1.** Ingresa a https://admin.powerplatform.microsoft.com/manage/environments
+**Paso 1.** Ingresa al [Centro de administración de Power Platform](https://admin.powerplatform.microsoft.com/manage/environments)
 
 **Paso 2.** Selecciona `Nuevo` y sigue las indicaciones resaltadas en rojo de las imágenes.
 
@@ -46,7 +45,7 @@ https://github.com/microsoft/powercat-creator-kit/releases/download/CreatorKit-M
 ![diagrama1](../images/Img2.7.jpg)
 
 ### Tarea 3. Instalar kit de creación
-**Paso 1.** Ingresa a https://make.powerapps.com/
+**Paso 1.** Ingresa a [https://make.powerapps.com/](https://make.powerapps.com/)
 
 **Paso 2.** Selecciona el entorno creado en la tarea anterior.
 
@@ -69,7 +68,7 @@ https://github.com/microsoft/powercat-creator-kit/releases/download/CreatorKit-M
 
 ![diagrama1](../images/Img2.13.jpg)
 
-**Paso 2.** Al momento de verificar las 21 conexiones, si tienes todos los prerequisitos de licencia, debe aparecer el check en verde. Sin embargo, en algunas ocasiones, la conexion CoE Core - HTTP With Azure AD debe configurarse, si es así pasa a la tarea 5.
+**Paso 2.** Al momento de verificar las 21 conexiones, si tienes todos los prerequisitos de licencia, debe aparecer el check en verde. Sin embargo, en algunas ocasiones, la conexion `CoE Core - HTTP With Azure AD debe configurarse`, si es así pasa a la tarea 5.
 
 ![diagrama1](../images/Img2.14.jpg)
 
@@ -87,11 +86,12 @@ https://github.com/microsoft/powercat-creator-kit/releases/download/CreatorKit-M
 **Paso 3.** Busca el conector en el buscador de la parte superior derecha digitando HTTP y selecciona HTTP with Microsoft Entra ID (preautorizado).
 
 **Paso 4.** Configura la conexión con esta información.
+
 | Campo | Valor a escribir |
 | --- | --- |
 | Authentication type | Iniciar sesión con credenciales de Microsoft Entra ID |
-| Dirección URL | https://graph.microsoft.com |
-| URL de recurso | https://graph.microsoft.com |
+| Dirección URL | [https://graph.microsoft.com](https://graph.microsoft.com) |
+| URL de recurso | [https://graph.microsoft.com](https://graph.microsoft.com) |
 
 Se abrirá una ventana emergente de inicio de sesión y luego de autenticarse se cerrará automáticamente.
 
@@ -99,7 +99,7 @@ Se abrirá una ventana emergente de inicio de sesión y luego de autenticarse se
 
 ![diagrama1](../images/Img2.17.jpg)
 
-**Paso 6.** Retoma la Tarea 4 desde el punto en que quedaste.
+**Paso 6.** Retoma la tarea 4 desde el punto en el que quedaste.
 
 ### Resultado esperado
 
